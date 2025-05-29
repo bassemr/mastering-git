@@ -1,2 +1,2 @@
 console.log('Hello, Git!');
-console.log('Trying out Revert');
+console.log('Hello, Github!');
